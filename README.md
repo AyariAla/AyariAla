@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AyariAla
 - 👀 I’m a software engineering student 
-- 🌱 I’m currently currently looking for a a developper opportunity for a 6 month period
+- 🌱 I’m currently looking for a a developper opportunity for a 6 month period
 - 💞️ I’m looking to collaborate on any opportunity provided 
 - 📫 Reach me on my e mail : ala.edd.ayari@gmail.com
 
